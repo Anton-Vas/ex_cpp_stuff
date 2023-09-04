@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "cSpell.words": [
+        "CREATIONAL"
+    ]
+}
